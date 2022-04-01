@@ -8,6 +8,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
+*If it's your first time running this web app, you must do an 'npm install' in order to get all the dependencies from the package.json file.*
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
